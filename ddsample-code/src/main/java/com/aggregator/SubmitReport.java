@@ -26,7 +26,7 @@ import javax.xml.bind.annotation.XmlType;
  * 
  */
 @XmlAccessorType(XmlAccessType.FIELD)
-@XmlType(name = "submitReport", propOrder = {
+@XmlType(name = "SubmitReport", propOrder = {
     "arg0"
 })
 public class SubmitReport {
